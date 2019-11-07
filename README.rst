@@ -35,3 +35,8 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+Scripts and GPIO stuff:
+.. _http://www.scraptopower.co.uk/Raspberry-Pi/how-to-connect-stepper-motors-a-raspberry-pi
+.. _https://github.com/custom-build-robots/Stepper-motor-28BYJ-48-Raspberry-Pi/commit/d8f6b5f3ee4d6b22d3fe40d81d0be09287c97c89
+
